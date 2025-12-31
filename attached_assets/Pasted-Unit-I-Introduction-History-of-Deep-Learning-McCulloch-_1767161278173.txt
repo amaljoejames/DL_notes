@@ -1,0 +1,34 @@
+Unit I:Introduction History of Deep Learning, McCulloch Pitts Neuron, Multilayer
+Perceptions (MLPs), Representation Power of MLPs, Sigmoid Neurons, Feed Forward
+Neural Networks, Back propagation, weight initialization methods, Batch Normalization,
+Representation Learning, GPU implementation, Decomposition – PCA and SVD.
+Unit II:Deep Feedforward Neural Networks, Gradient Descent (GD), Momentum Based GD,
+Nesterov Accelerated GD, Stochastic GD, AdaGrad, Adam, RMSProp, Auto-encoder,
+Regularization in auto-encoders, Denoising auto-encoders, Sparse auto-encoders, Contractive
+auto-encoders,Variational auto-encoder, Auto-encoders relationship with PCA and SVD,
+Dataset augmentation.Denoising auto encoders,
+Unit III:Introduction to Convolutional neural Networks (CNN) and its architectures, CCN
+terminologies: ReLu activation function, Stride, padding, pooling, convolutions operations,
+Convolutional kernels, types of layers: Convolutional, pooling, fully connected, Visualizing
+CNN, CNN examples: LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, RCNNetc.
+Deep Dream, Deep Art. Regularization: Dropout, drop Connect, unit pruning, stochastic
+pooling, artificial data, injecting noise in input, early stopping, Limit Number of parameters,
+Weight decay etc.
+Unit IV:Introduction to Deep Recurrent Neural Networks and its architectures,
+Backpropagation Through Time (BPTT), Vanishing and Exploding Gradients, Truncated
+BPTT, Gated Recurrent Units (GRUs), Long Short Term Memory (LSTM), Solving the
+vanishing gradient problem with LSTMs, Encoding and decoding in RNN network, Attention
+Mechanism, Attention over images, Hierarchical Attention, Directed Graphical Models.
+Applications of Deep RNN in Image Processing, Natural Language Processing, Speech
+recognition, Video Analytics.
+Unit V:Introduction to Deep Generative Models, Restricted Boltzmann Machines (RBMs),
+Gibbs Sampling for training RBMs, Deep belief networks, Markov Networks, Markov
+Chains, Auto-regressive Models: NADE, MADE, PixelRNN, Generative Adversarial
+Networks (GANs), Applications of Deep Learning in Object detection, speech/ image
+recognition, video analysis, NLP, medical science etc.
+generate html file with futuristic css design adding 3d components for better studying
+1.i want from you is notes of each unit : each topic wise notes descriptive notes of eah topic: definition, features,working principle, diagrams, advantages, disadvantages conclusion
+2.a navbar consisting of units that hover to the unit like if i click on button unit-4 it should reirect me to unit -4
+3.each topic for eg: history of deep learning should be around 1000-1500 words per topic and each and every topic should be completely perfect
+4.add 3d components animations layouts so that it will be interactive
+do it man take your time
